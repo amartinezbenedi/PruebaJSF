@@ -44,7 +44,7 @@
 	
 	<!-- Welcome page -->
 	<welcome-file-list>
-		<welcome-file>faces/hello.xhtml</welcome-file>
+		<welcome-file>faces/Pagina1.xhtml</welcome-file>
 	</welcome-file-list>
 	
 </web-app>
